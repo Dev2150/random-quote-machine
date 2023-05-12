@@ -1,0 +1,19 @@
+* {
+  font-family: "lobster", sans-serif;
+}
+html {
+  background-color: #aa1100;
+  color: #77b1a9;
+  display: flex;
+  justify-content: center;
+  margin: 10%;
+}
+
+#quote-box {
+  margin: 3% auto auto auto;
+  border-radius: 10px;
+  padding: 40px 50px;
+  width: 500px;
+  background-color: #fff;
+  border-radius: 10px;
+}
